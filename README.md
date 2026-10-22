@@ -1,5 +1,3 @@
-ด้านล่างคือ Master Prompt ฉบับรวมของ ARTYVERSE X WORKSPACE ใส่ข้อกำหนดและคำอธิบายไว้ในตัว ใช้งานได้โดยไม่ต้องอ้างอิง prompt หรือไฟล์สเปกอื่น
-
 # ARTYVERSE X WORKSPACE
 # COMPLETE MASTER PRODUCT & IMPLEMENTATION PROMPT
 // Universal Assistant · Meeting Intelligence · Creative Workspace
